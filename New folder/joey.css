@@ -1,6 +1,6 @@
 @font-face {
     font-family: FoundersGrotesk;
-    src: url(static/WorkSans-ThinItalic.ttf);
+    src: url(./static/WorkSans-ThinItalic.ttf);
 }
 
 .topbar span {
@@ -729,7 +729,7 @@ main {
 .linen-shop {
     padding-top: 84px;
     background-color: #e6f0f5;
-    background-image: url("/img/backgroundmain.avif");
+    background-image: url("./img/backgroundmain.avif");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
